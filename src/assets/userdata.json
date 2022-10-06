@@ -1,0 +1,82 @@
+[
+    {
+        "name":"praful",
+        "age" :"20"
+    },
+    {
+        "name":"rahul",
+        "age" :"21"
+    },
+    {
+        "name":"ram",
+        "age" :"25"
+    },
+    {
+        "name":"pranjal",
+        "age" :"18"
+    },
+    {
+        "name":"priyanka",
+        "age" :"26"
+    },
+    {
+        "name":"ravi",
+        "age" :"23"
+    },
+    {
+        "name":"raviraj",
+        "age" :"14"
+    },
+    {
+        "name":"aman",
+        "age" :"45"
+    },
+    {
+        "name":"abhi",
+        "age" :"19"
+    },
+    {
+        "name":"abhishek",
+        "age" :"24"
+    },
+    {
+        "name":"hemant",
+        "age" :"66"
+    },
+    {
+        "name":"ahs",
+        "age" :"13"
+    },
+    {
+        "name":"krishna",
+        "age" :"79"
+    },
+    {
+        "name":"bishwa",
+        "age" :"25"
+    },
+    {
+        "name":"shivam",
+        "age" :"21"
+    },
+    {
+        "name":"kalyan",
+        "age" :"50"
+    },
+    {
+        "name":"deepak",
+        "age" :"67"
+    },
+    {
+        "name":"heman",
+        "age" :"55"
+    },
+    {
+        "name":"prem",
+        "age" :"35"
+    },
+    {
+        "name":"priya",
+        "age" :"26"
+    }
+]
