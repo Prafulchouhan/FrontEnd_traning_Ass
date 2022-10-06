@@ -1,0 +1,23 @@
+<div>
+    <label for="First_Currency">First Currency </label>
+    <select id="sel1" name="First Currency"  [(ngModel)]="cur1">
+        <option value="INR">INR</option>
+        <option value="USD">USD</option>
+        <option value="JPY">JPY</option>
+        <option value="AUD">AUD</option>
+        <option value="ZAR">ZAR</option>
+    </select>
+    <label for="Second_Currency"> Second Currency </label>
+    <select id="sel2" name="Srcond_Currency"  [(ngModel)]="cur2">
+        <option value="INR">INR</option>
+        <option value="USD">USD</option>
+        <option value="JPY">JPY</option>
+        <option value="AUD">AUD</option>
+        <option value="ZAR">ZAR</option>
+    </select>
+    <br>
+    <input type="number" [(ngModel)]="val">
+    <br>
+    <button (click)="fun()">Convert</button>
+    <p>{{Output}}</p>
+</div>
